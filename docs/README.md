@@ -24,9 +24,9 @@
 - **Q:** `Can the bot search cards unreleased in the TCG like OCG cards and Duel Links exclusive ones?`
   - **A:** No. The bot operates off the YGOProDeck API and can only return cards that are searchable through the API which appears to exlcude unreleased OCG  or Duel Links exclusive cards
 - **Q:** `I searched a card and the bot couldn't find it! It doesn't work!`
-  - **A:** The bot works. Sometimes the way the autocorrect works, it finds a closer match to what you input to a different card so the wrong card is returned or nothing at all because something went wrong. Try spelling the card more correctly to get it to search the card you want. **IF** even when the card is properly spelt and it returns an error, it will notify me or use the [feedback site]() to report it
+  - **A:** The bot works. Sometimes the way the autocorrect works, it finds a closer match to what you input to a different card so the wrong card is returned or nothing at all because something went wrong. Try spelling the card more correctly to get it to search the card you want. **IF** even when the card is properly spelt and it returns an error, it will notify me or use the [feedback site](https://sidegrinder.vercel.app/feedback) to report it
 - **Q:** `What if there's a feature I would like to see added to the bot?`
-  - **A:** Visit the [feeback site]() to let me know what you would like to see in the bot, and if I feel like the suggestion is worth developing and adding, it shall be done!
+  - **A:** Visit the [feeback site](https://sidegrinder.vercel.app/feedback) to let me know what you would like to see in the bot, and if I feel like the suggestion is worth developing and adding, it shall be done!
 
 ## More by Me
 If you want to see more work by me, visit my [GitHub](https://github.com/RGarrettLee)
